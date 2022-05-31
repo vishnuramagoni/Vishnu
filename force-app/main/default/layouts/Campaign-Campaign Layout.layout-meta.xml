@@ -349,6 +349,16 @@
         <fields>OPPORTUNITY.CLOSE_DATE</fields>
         <relatedList>RelatedOpportunityList</relatedList>
     </relatedLists>
+    <relatedLists>
+        <fields>MEMBER_TYPE</fields>
+        <fields>STATUS</fields>
+        <fields>FULL_NAME</fields>
+        <fields>TITLE</fields>
+        <fields>FIRST_NAME</fields>
+        <fields>LAST_NAME</fields>
+        <fields>COMPANY</fields>
+        <relatedList>RelatedCampaignMemberList</relatedList>
+    </relatedLists>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showHighlightsPanel>false</showHighlightsPanel>
     <showInteractionLogPanel>false</showInteractionLogPanel>
