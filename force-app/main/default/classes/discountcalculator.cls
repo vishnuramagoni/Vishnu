@@ -1,3 +1,5 @@
+/* Testing Vishnu Skill */
+
 public class discountcalculator{
 
     Public Static void calculate(release__c[] rel){
