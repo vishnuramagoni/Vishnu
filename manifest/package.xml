@@ -1,37 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Release__C-Admin Layout</members>
-        <members>Release__c-Developer Layout</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>discountcalculator</members>
-        <name>ApexClass</name>
-    </types>
-    <types>
-        <members>discount</members>
-        <name>ApexTrigger</name>
-    </types>
-    <types>
-        <members>Release__C</members>
-        <name>customobject</members>
-    </types>
-    <types>
-        <members>Release__c.Project_Team__c</members>
-        <members>Release__c.Release_Date__c</members>
-        <members>Release__C.Discount_Price__c</members>
-        <members>Release__C.Percentage__c</members>
-        <members>Release__C.Price__c</members>
-        <name>Customfield</name>
-    </types>
-    <types>
-        <members>Release__c</members>
-        <name>customtab</name>
-    </types>
-    <types>
-        <members>Sys Admin Read Only</members>
-        <name>Profile</name>
+        <members>test</members>
+        <name>Customobject</name>
     </types>
     <version>54.0</version>
 </Package>
